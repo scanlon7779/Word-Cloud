@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.ncsu.csc316.wordcloud.manager","l":"WordManagerTest"}]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+<title>title</title>
+</head>
+<body>
+<h1>title</h1>
+<div style="
+ width: 600px;
+ background-color: #CCCCCC
+ border: 5px grey solid;
+text-align: center">
+<span style="color:#CC0000;font-size:12px;">&nbspdog&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspbrown&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbsplazy&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspover&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspjumps&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspfox&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspred&nbsp</span>
+<span style="color:#CC0000;font-size:12px;">&nbspquick&nbsp</span>
+
+</div>
+</body>
+</html>
+
